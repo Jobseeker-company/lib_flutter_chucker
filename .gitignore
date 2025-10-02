@@ -16,7 +16,6 @@
 .idea/
 
 # VSCode related
-.vscode/
 
 # Flutter/Dart/Pub related
 **/doc/api/
@@ -37,3 +36,5 @@ app.*.symbols
 
 # Obfuscation related
 app.*.map.json
+config.bat
+node_modules
